@@ -1,2 +1,2 @@
-# M-todos-Num-ricos
+# Métodos Numéricos Computacional - 2022.1
 Uma análise de impacto causado pela vacinação na pandemia do COVID-19 do estado de Pernambuco através do modelo SIRD
